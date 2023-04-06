@@ -1,1 +1,2 @@
-# ALURA-arquitetura-css-assets
+# arquitetura-css
+curso de arquitetura da Alura. 
